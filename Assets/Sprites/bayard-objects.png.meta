@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: a0cfdf317095e497b90be35a3aac4b93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4743461459605620734
+    second: bayard-objects_0
+  - first:
+      213: -4117957024776342370
+    second: bayard-objects_1
+  - first:
+      213: -7538504414817607968
+    second: bayard-objects_2
+  - first:
+      213: 3985102976855149352
+    second: bayard-objects_3
+  - first:
+      213: 2889381801129791942
+    second: bayard-objects_4
+  - first:
+      213: 4929909574982217306
+    second: bayard-objects_5
+  - first:
+      213: -7936381866154428197
+    second: bayard-objects_6
+  - first:
+      213: 9145747679337165913
+    second: bayard-objects_7
+  - first:
+      213: -552308306818751246
+    second: bayard-objects_8
+  - first:
+      213: -8660475327287425724
+    second: bayard-objects_9
+  - first:
+      213: -4314731687100457743
+    second: bayard-objects_10
+  - first:
+      213: 3578717816335829953
+    second: bayard-objects_11
+  - first:
+      213: 3052779485678551711
+    second: bayard-objects_12
+  - first:
+      213: -5939075585083275902
+    second: bayard-objects_13
+  - first:
+      213: -2531248136981382041
+    second: bayard-objects_14
+  - first:
+      213: -903027897483890395
+    second: bayard-objects_15
+  - first:
+      213: 5656941859914977688
+    second: bayard-objects_16
+  - first:
+      213: -7237480445925579455
+    second: bayard-objects_17
+  - first:
+      213: -8746855716076094869
+    second: bayard-objects_18
+  - first:
+      213: 2850944056339361709
+    second: bayard-objects_19
+  - first:
+      213: -4295975546695920387
+    second: bayard-objects_20
+  - first:
+      213: 7416272305812460800
+    second: bayard-objects_21
+  - first:
+      213: -5802779365215478717
+    second: bayard-objects_22
+  - first:
+      213: -5481852726158846249
+    second: bayard-objects_23
+  - first:
+      213: 2999410008696355239
+    second: bayard-objects_24
+  - first:
+      213: 3896849349865110915
+    second: bayard-objects_25
+  - first:
+      213: 8553614796237544118
+    second: bayard-objects_26
+  - first:
+      213: 2076433557374056328
+    second: bayard-objects_27
+  - first:
+      213: 18072525464302804
+    second: bayard-objects_28
+  - first:
+      213: -8397093134422215079
+    second: bayard-objects_29
+  - first:
+      213: 7166241207726176984
+    second: bayard-objects_30
+  - first:
+      213: -2116246521099099848
+    second: bayard-objects_31
+  - first:
+      213: 3489098142205252323
+    second: bayard-objects_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bayard-objects_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2768
+        width: 1015
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78c89c01924d140800000000000000
+      internalID: 4743461459605620734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3758
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b1e167e31ad6c0800000000000000
+      internalID: -4117957024776342370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3761
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee1519ec2ad16790800000000000000
+      internalID: -7538504414817607968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 3440
+        width: 408
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b8dc02b0eed4730800000000000000
+      internalID: 3985102976855149352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_4
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2926
+        width: 523
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d1d48075291820800000000000000
+      internalID: 2889381801129791942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_5
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3471
+        width: 309
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eac9f73ae8a6440800000000000000
+      internalID: 4929909574982217306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_6
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 3475
+        width: 373
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd87302ddbe4cd190800000000000000
+      internalID: -7936381866154428197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_7
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 3464
+        width: 334
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954be30ee093cee70800000000000000
+      internalID: 9145747679337165913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3630
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4229d658ec558f0800000000000000
+      internalID: -552308306818751246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_9
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 3197
+        width: 468
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458ff2339fcfc780800000000000000
+      internalID: -8660475327287425724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_10
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 3380
+        width: 369
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc5149146efe14c0800000000000000
+      internalID: -4314731687100457743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3589
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0f02a4e82aa130800000000000000
+      internalID: 3578717816335829953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2171
+        width: 274
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92487594c6ad5a20800000000000000
+      internalID: 3052779485678551711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_13
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2592
+        width: 499
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858ae0d83a249da0800000000000000
+      internalID: -5939075585083275902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_14
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 3095
+        width: 320
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cfad40b333fdcd0800000000000000
+      internalID: -2531248136981382041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_15
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2150
+        width: 1325
+        height: 1325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521743469ecc773f0800000000000000
+      internalID: -903027897483890395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2134
+        width: 446
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891154b56ae718e40800000000000000
+      internalID: 5656941859914977688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_17
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2555
+        width: 268
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14525c751ed4f8b90800000000000000
+      internalID: -7237480445925579455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_18
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2498
+        width: 311
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a70bda11dec9680800000000000000
+      internalID: -8746855716076094869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_19
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2543
+        width: 215
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6e98a386909720800000000000000
+      internalID: 2850944056339361709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_20
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 2631
+        width: 288
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4dc675001a164c0800000000000000
+      internalID: -4295975546695920387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_21
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 2610
+        width: 274
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d4897e54ebe660800000000000000
+      internalID: 7416272305812460800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_22
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 2512
+        width: 180
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5d5a69e2687fa0800000000000000
+      internalID: -5802779365215478717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_23
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 2656
+        width: 360
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d69b4a5dfb8ce3b0800000000000000
+      internalID: -5481852726158846249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_24
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2213
+        width: 432
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f818e28b00a920800000000000000
+      internalID: 2999410008696355239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_25
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2297
+        width: 422
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dfbe956d3641630800000000000000
+      internalID: 3896849349865110915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_26
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 2181
+        width: 643
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba9343965b84b670800000000000000
+      internalID: 8553614796237544118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_27
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 2195
+        width: 243
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8873bfaa159f0dc10800000000000000
+      internalID: 2076433557374056328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_28
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 2346
+        width: 249
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47e7cbdd4304000800000000000000
+      internalID: 18072525464302804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_29
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 2171
+        width: 165
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95674e0b848877b80800000000000000
+      internalID: -8397093134422215079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_30
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2297
+        width: 967
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf849f86a937360800000000000000
+      internalID: 7166241207726176984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_31
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2171
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316bbc500591a2e0800000000000000
+      internalID: -2116246521099099848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bayard-objects_32
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 2181
+        width: 204
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29e983644cb6030800000000000000
+      internalID: 3489098142205252323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4b5478cd40de4d00a82501fae0d0cdb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
