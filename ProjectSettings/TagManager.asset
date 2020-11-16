@@ -44,3 +44,9 @@ TagManager:
   - name: platform
     uniqueID: 1311423863
     locked: 0
+  - name: background
+    uniqueID: 2464036531
+    locked: 0
+  - name: overlay
+    uniqueID: 794023359
+    locked: 0
